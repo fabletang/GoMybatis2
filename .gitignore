@@ -36,3 +36,4 @@ yarn-error.log*
 /vendor
 /.github
 /lib/
+go.sum
