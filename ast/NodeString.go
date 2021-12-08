@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/zhuxiujia/GoMybatis/stmt"
+import "github.com/fabletang/GoMybatis2/stmt"
 
 //字符串节点
 type NodeString struct {

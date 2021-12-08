@@ -2,7 +2,7 @@ package ast
 
 import (
 	"bytes"
-	"github.com/zhuxiujia/GoMybatis/stmt"
+	"github.com/fabletang/GoMybatis2/stmt"
 )
 
 //sql构建抽象语法树节点

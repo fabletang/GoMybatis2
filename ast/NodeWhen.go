@@ -1,8 +1,8 @@
 package ast
 
 import (
-	"github.com/zhuxiujia/GoMybatis/stmt"
-	"github.com/zhuxiujia/GoMybatis/utils"
+	"github.com/fabletang/GoMybatis2/stmt"
+	"github.com/fabletang/GoMybatis2/utils"
 )
 
 type NodeWhen struct {

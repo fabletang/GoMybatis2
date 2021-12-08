@@ -2,9 +2,9 @@ package GoMybatis
 
 import (
 	"fmt"
-	"github.com/zhuxiujia/GoMybatis/example"
-	"github.com/zhuxiujia/GoMybatis/stmt"
-	"github.com/zhuxiujia/GoMybatis/tx"
+	"github.com/fabletang/GoMybatis2/example"
+	"github.com/fabletang/GoMybatis2/stmt"
+	"github.com/fabletang/GoMybatis2/tx"
 	"testing"
 	"time"
 )

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/zhuxiujia/GoMybatis/stmt"
+	"github.com/fabletang/GoMybatis2/stmt"
 	"strings"
 )
 

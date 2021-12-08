@@ -2,7 +2,7 @@ package ast
 
 import (
 	"bytes"
-	"github.com/zhuxiujia/GoMybatis/stmt"
+	"github.com/fabletang/GoMybatis2/stmt"
 )
 
 //Trim操作节点

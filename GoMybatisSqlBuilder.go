@@ -1,8 +1,8 @@
 package GoMybatis
 
 import (
-	"github.com/zhuxiujia/GoMybatis/ast"
-	"github.com/zhuxiujia/GoMybatis/stmt"
+	"github.com/fabletang/GoMybatis2/ast"
+	"github.com/fabletang/GoMybatis2/stmt"
 )
 
 type GoMybatisSqlBuilder struct {

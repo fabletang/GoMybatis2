@@ -2,9 +2,9 @@ package GoMybatis
 
 import (
 	"database/sql"
-	"github.com/zhuxiujia/GoMybatis/ast"
-	"github.com/zhuxiujia/GoMybatis/stmt"
-	"github.com/zhuxiujia/GoMybatis/tx"
+	"github.com/fabletang/GoMybatis2/ast"
+	"github.com/fabletang/GoMybatis2/stmt"
+	"github.com/fabletang/GoMybatis2/tx"
 )
 
 type Result struct {

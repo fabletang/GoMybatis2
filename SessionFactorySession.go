@@ -1,9 +1,9 @@
 package GoMybatis
 
 import (
-	"github.com/zhuxiujia/GoMybatis/stmt"
-	"github.com/zhuxiujia/GoMybatis/tx"
-	"github.com/zhuxiujia/GoMybatis/utils"
+	"github.com/fabletang/GoMybatis2/stmt"
+	"github.com/fabletang/GoMybatis2/tx"
+	"github.com/fabletang/GoMybatis2/utils"
 )
 
 type SessionFactorySession struct {
